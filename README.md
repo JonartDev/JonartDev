@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently working on Wbridge Manpower Corp.<br>Experienced Laravel Developer with a track record of working with agile methodologies and guts to take charge when its needed<br><br>* Understands how to work in a team, listens to others' ideas.<br>* Accepts criticism and is constantly striving to improve.<br>* Offers innovative solutions<br>* Time is distributed efficiently, and tasks are completed on time.<br>* Is self-sufficient
+Im<br>Experienced Laravel Developer with a track record of working with agile methodologies and guts to take charge when its needed<br><br>* Understands how to work in a team, listens to others' ideas.<br>* Accepts criticism and is constantly striving to improve.<br>* Offers innovative solutions<br>* Time is distributed efficiently, and tasks are completed on time.<br>* Is self-sufficient
 
 
 ## 🌐 Socials:
